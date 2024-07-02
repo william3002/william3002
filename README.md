@@ -1,6 +1,6 @@
 Eai, sou William araujo
 - 🔭 Hoje procuro meu primeiro emprego como developer
-- 🌱 Estudando na UNICSUL / ADS
+- 🌱 Formado na UNICSUL / ADS
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
 - 📫 contacte-me no email: williamaraujodossantos@gmail.com
 <hr>
