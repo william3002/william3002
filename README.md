@@ -32,9 +32,13 @@
 </div>
 
 ---
+---
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=william3002&theme=dracula&no-frame=true&column=7" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=william3002&theme=dracula&hide_border=true" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=william3002&label=Profile%20views&color=0e75b6&style=flat" alt="william3002" />
 </div>
+
