@@ -1,10 +1,9 @@
 ## 👋 Olá! Eu sou o William Araujo
 
-- 🎯 Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior  
+- 🎯 Buscando minha primeira oportunidade como Desenvolvedor Front-End Júnior  
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas – UNICSUL  
-- 🛠️ Tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap, Tailwind e Node.js  
-- 📚 Sempre estudando para evoluir como desenvolvedor full stack  
-- 📬 Entre em contato: williamaraujodossantos@gmail.com  
+- 💻 Tecnologias: HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap, Tailwind e Node.js  
+- 📬 Contato: williamaraujodossantos@gmail.com  
 
 ---
 
@@ -19,23 +18,7 @@
 
 ---
 
-## 🏆 Conquistas no GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=william3002&theme=dracula&no-frame=true&column=7" />
-</div>
-
----
-
-## 📈 Contribuições recentes
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=william3002&theme=dracula&hide_border=true" />
-</div>
-
----
-
-## 📟 Tecnologias que utilizo
+## 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="William-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,8 +31,11 @@
 
 ---
 
-## 📊 Visualizações de perfil
+![Snake animation](https://github.com/william3002/william3002/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=william3002&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="william3002" />
-</p>
+---
+
+## 📫 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/william-araujo-3a6680256/)  
+- [GitHub](https://github.com/william3002)  
