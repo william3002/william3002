@@ -33,5 +33,5 @@
 
 ## 📫 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/william-araujo-3a6680256/)  
+- [LinkedIn](https://www.linkedin.com/in/williamaraujo-dev/)  
 - [GitHub](https://github.com/william3002)  
